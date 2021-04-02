@@ -24,6 +24,9 @@ namespace convertANumberToAString
                 return numToString;
 
                 //passed codewars test
+
+                //could have also used:
+                //return num.ToString();
             }
         }
     }
